@@ -30,8 +30,8 @@ showProfile();
 public class BackendProfile {
     private String name = "Développeur Backend";
     private String[] stack = {"Spring Boot", "Node.js", "PHP"};
-    private String[] databases = {"MongoDB", "MySQL", "Firestore"};
-    private String[] tools = {"Docker", "JPA", "Hibernate"};
+    private String[] databases = {"MongoDB", "MySQL", "PostgreSQL","Oracle","Firestore"};
+    private String[] tools = {"Docker", "Hibernate"};
 
     public void showProfile() {
         System.out.println("🚀 " + name + " - Stack: " + String.join(", ", stack));
