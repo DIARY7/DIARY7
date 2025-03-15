@@ -24,7 +24,7 @@ const showProfile = () => {
 
 showProfile();
 ```
-## ☕ Backend Profile (Java)
+## ☕ Backend Profile 
 ```java
 public class BackendProfile {
     private String name = "Développeur Backend";
