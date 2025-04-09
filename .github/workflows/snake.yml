@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Génère le Snake SVG
+      - name: Genere le Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: DIARY7
