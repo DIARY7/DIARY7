@@ -54,6 +54,6 @@ public class BackendProfile {
 ```
 
 ## 📊 Activité GitHub animée
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alexdev78&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DIARY7&theme=react-dark)
 
 
