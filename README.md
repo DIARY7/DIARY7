@@ -7,6 +7,12 @@
 
 ---
 
+## 🚀 Statistiques
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIARY7&layout=compact&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DIARY7&show_icons=true&theme=tokyonight)
+
 ## ⚛️ Frontend Profile 
 ```jsx
 const frontendProfile = {
@@ -46,4 +52,8 @@ public class BackendProfile {
 }
 
 ```
+
+## 📊 Activité GitHub animée
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alexdev78&theme=react-dark)
+
 
