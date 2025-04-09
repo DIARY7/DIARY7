@@ -54,7 +54,7 @@ public class BackendProfile {
 ```
 
 ## 📊 Activité GitHub
-![snake gif](https://github.com/DIARY7/DIARY7/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DIARY7/DIARY7/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 
 
