@@ -53,7 +53,8 @@ public class BackendProfile {
 
 ```
 
-## 📊 Activité GitHub animée
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DIARY7&theme=react-dark)
+## 📊 Activité GitHub 
+![snake gif](https://github.com/DIARY7/DIARY7/blob/output/github-contribution-grid-snake.svg)
+
 
 
