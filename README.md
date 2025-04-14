@@ -12,8 +12,8 @@
 
 ## 🚀 Statistiques
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIARY7&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DIARY7&show_icons=true&theme=tokyonight" alt="GitHub stats" style="margin-left: 110px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DIARY7&show_icons=true&theme=tokyonight" alt="GitHub stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIARY7&layout=compact&theme=tokyonight" alt="Top Langs" style="margin-left: 110px;" />
 </p>
 
 
