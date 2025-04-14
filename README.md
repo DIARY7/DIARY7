@@ -1,4 +1,7 @@
-![Cover](https://github.com/DIARY7/DIARY7/blob/main/img/giphy.gif)
+<p align="center">
+  <img src="https://github.com/DIARY7/DIARY7/blob/main/img/giphy.gif" alt="Cover" />
+</p>
+
 # 💻 Developper fullStack 🌐 !
 
 🚀 **Développeur Junior**  
@@ -8,10 +11,11 @@
 ---
 
 ## 🚀 Statistiques
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIARY7&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DIARY7&show_icons=true&theme=tokyonight" alt="GitHub stats" style="margin-left: 20px;" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIARY7&layout=compact&theme=tokyonight)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DIARY7&show_icons=true&theme=tokyonight)
 
 ## ⚛️ Frontend Profile 
 ```jsx
