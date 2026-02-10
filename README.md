@@ -4,7 +4,7 @@
 
 # 💻 Developper fullStack 🌐 !
 
-🚀 **Développeur Junior**  
+🚀 **Développeur**  
 
 💡 Toujours en quête d'apprentissage et d'innovation, exploration du monde du développement web tout en m'intéressant aux **technologies intelligentes**.  
 
