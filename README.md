@@ -39,7 +39,7 @@ showProfile();
 ```java
 public class BackendProfile {
     private String name = "Développeur Backend";
-    private String[] stack = {"Spring Boot", "Node.js", "PHP"};
+    private String[] stack = {"Spring Boot", "Node.js", "PHP","Python"};
     private String[] databases = {"MongoDB", "MySQL", "PostgreSQL","Oracle","Firestore"};
     private String[] tools = {"Docker", "Hibernate"};
 
